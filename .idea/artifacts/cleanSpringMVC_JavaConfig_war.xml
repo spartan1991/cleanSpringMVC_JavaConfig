@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cleanSpringMVC_JavaConfig:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/cleanSpringMVC_JavaConfig_war</output-path>
+    <root id="archive" name="cleanSpringMVC_JavaConfig_war.war">
+      <element id="artifact" artifact-name="cleanSpringMVC_JavaConfig:war exploded" />
+    </root>
+  </artifact>
+</component>

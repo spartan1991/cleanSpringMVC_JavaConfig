@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cleanSpringMVC_JavaConfig:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cleanSpringMVC_JavaConfig_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cleanSpringMVC_JavaConfig" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.23" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="cleanSpringMVC_JavaConfig/web/Web" />
+    </root>
+  </artifact>
+</component>
